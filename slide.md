@@ -4,13 +4,13 @@ output: index.html
 --
 
 <h1 style="font-size: 72px">
-	Stay Hungry,<br />
-	Stay Foolish.
+	Enlightenment<br />
+	從啟蒙觸發
 </h1>
 <br />
 
 ## Denny Huang
-## 2018/06/10 @ INFAS
+## 2018/07/18 @ ezgo14 發表會
 
 --
 
@@ -77,15 +77,15 @@ output: index.html
 
 --
 
-# 學校教育？
+# 國中
 
 --
 
-# 高中 / 高職
+# [GNU / Linux](https://www.gnu.org/home.zh-tw.html)
 
 --
 
-# 大學 / 研究所
+<iframe width="800" height="600" src="https://www.youtube.com/embed/6NhyCXJU-IQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 --
 
@@ -139,32 +139,6 @@ output: index.html
 
 --
 
-# 斜槓青年
-
---
-
-# 第一份打工?
-
---
-
-<div align="center">
-	<img style="width: 800px" src="./img/magic.jpg" />
-</div>
-
---
-
-<div align="center">
-	<img style="width: 800px" src="./img/incredibleace.jpg" />
-</div>
-
---
-
-<div align="center">
-	<img style="height: 600px" src="./img/7-8.jpg" />
-</div>
-
---
-
 # 社團
 
 --
@@ -173,19 +147,15 @@ output: index.html
 
 --
 
-# OpenFoundry
+# [OpenFoundry](https://www.openfoundry.org/)
 
 --
 
-# COSCUP
+# [COSCUP](http://coscup.org)
 
 --
 
-# SITCON
-
---
-
-# 大學選擇
+# [SITCON](https://sitcon.org)
 
 --
 
@@ -198,6 +168,14 @@ output: index.html
 --
 
 # Q & A
+
+--
+
+### References
+
+- [從 Revolution OS 看作業系統生態變化](https://paper.dropbox.com/doc/Revolution-OS---AH1k67i5ULdOpqw_bM1rO5kDAg-KwFsVDO0MpMUxSmOfPfuI)
+
+- [Code Rush: Netscape Mozilla 紀錄片 1998 - 2000 （中文字幕）](https://www.youtube.com/watch?v=VoLUvE-ny1k)
 
 --
 
